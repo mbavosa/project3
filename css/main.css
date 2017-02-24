@@ -1,5 +1,17 @@
-h1{
+header h1{
   color: red;
   font-size: 36px;
   font-weight: bold;
+}
+h1 {
+  color: green;
+}
+h1 {
+  color: blue;
+}
+.my-class {
+  color: orange; !important 
+}
+#my-id {
+  color: tomato
 }
