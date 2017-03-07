@@ -1,3 +1,11 @@
+/* get font from Google */
+
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+
+body{
+  font-family: 'Pangolin', cursive;
+}
+
 header h1{
   color: red;
   font-size: 36px;
@@ -10,7 +18,7 @@ h1 {
   color: blue;
 }
 .my-class {
-  color: orange; !important 
+  color: orange; !important
 }
 #my-id {
   color: tomato
